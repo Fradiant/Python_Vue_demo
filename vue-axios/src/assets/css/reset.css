@@ -1,6 +1,0 @@
-* {
-    margin: 0;
-    padding: 0;
-    /* 使元素的总高度和宽度包含内边距和边框 */
-    box-sizing: border-box;
-}
